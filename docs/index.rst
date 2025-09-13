@@ -7,7 +7,7 @@ Peacock TV is one of the leading streaming services, offering a range of enterta
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://www.peacocktv.com/
+   :target: https://ptv.officialredir.com
 
 This guide will walk you through the process of logging in to your Peacock TV account, address common login issues, and provide you with troubleshooting tips. Whether you're new to the service or a returning user, this comprehensive guide will ensure you are ready to start streaming in no time.
 
